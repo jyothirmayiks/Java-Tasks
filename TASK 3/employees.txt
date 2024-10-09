@@ -1,0 +1,10 @@
+Alice Johnson,Software Developer,75000
+Bob Smith,Data Scientist,80000
+Carol White,Project Manager,85000
+David Brown,Graphic Designer,70000
+Eva Green,Product Manager,90000
+Frank Black,UX Designer,72000
+Grace Lee,Marketing Specialist,68000
+Hank Adams,Sales Manager,77000
+Ivy Clark,Quality Analyst,71000
+Jack Wilson,IT Support Specialist,69000
